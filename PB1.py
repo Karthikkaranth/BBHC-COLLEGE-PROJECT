@@ -1,6 +1,6 @@
 from pandas import *
 
-# Create first data frame
+
 data1 = {     'rollno': [1, 2, 3],    'name': ['Veena', 'Peter', 'Vikas'], 
     'Total_Marks': [250, 270, 290]
 }
