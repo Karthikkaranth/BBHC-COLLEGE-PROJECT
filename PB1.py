@@ -15,8 +15,8 @@ data2 = {
 
 df2 = DataFrame(data2)
 
-# Join the two data frames along rows
+
 result = concat([df1, df2], ignore_index=True)
 
-# Display the result
+
 print(result)
