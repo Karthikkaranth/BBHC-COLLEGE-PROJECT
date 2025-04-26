@@ -7,7 +7,7 @@ data1 = {     'rollno': [1, 2, 3],    'name': ['Veena', 'Peter', 'Vikas'],
 
 df1 = DataFrame(data1)
 
-# Create second data frame
+
 data2 = {
     'rollno': [4, 5, 6],     'name': ['Jahnavi', 'Tulsi', 'Varsha'],
     'Total_Marks': [260, 280, 275]
